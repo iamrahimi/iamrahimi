@@ -7,7 +7,7 @@ I'm a software developer with experience building web applications and business 
 ## About Me
 
 - 💻 Experienced in frontend and backend web development
-- 🌱 Currently strengthening my skills in Python, Java, cloud technologies, and AI/ML
+- 🌱 Currently strengthening my skills in Python, Java, cloud technologies, Java and AI/ML
 - 🎯 Interested in **Full Stack**, **Frontend**, and **Python Developer** opportunities
 - 🤝 I enjoy learning with others, collaborating on projects, and helping teams succeed
 
