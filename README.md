@@ -13,18 +13,17 @@ I'm a software developer with experience building web applications and business 
 
 ## Technical Skills
 
-**Languages:** JavaScript, TypeScript, PHP, Python, Java, SQL  
-**Frontend:** Vue.js, Nuxt.js, React, HTML, CSS, Bootstrap  
+**Languages:** JavaScript, Python, Java, SQL, TypeScript, PHP 
+**Frontend:** Vue.js, Nuxt.js, HTML, CSS, Bootstrap  
 **Backend:** Node.js, Express, Laravel, CodeIgniter  
 **Databases:** MySQL, MongoDB, PostgreSQL, SQLite  
-**Tools and cloud:** Git, GitHub, AWS, Google Cloud, Linux
+**Tools and cloud:** Git, GitHub, AWS,
 
 ## Selected Projects
 
 - **Content management systems:** Built and supported websites and CMS platforms for organizations.
 - **Management information systems:** Worked on systems for healthcare, finance, inventory, and organizational operations.
 - **Tender platforms:** Contributed to platforms for finding and managing tender opportunities.
-- **Weather classification project:** Packaging a Python machine-learning model with a clear prediction interface and tests.
 
 ## A Little Code
 
